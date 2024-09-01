@@ -158,7 +158,7 @@ public class LogParser {
     String lookupFilePath = "lookup_table.csv";
     String logFilePath = "logs.txt";
     String protocolMapFilePath = "protocol_map.csv";
-    String outputFilePath = "output_results.csv";
+    String outputFilePath = "output_results.txt";
 
     // Parse named arguments
     for (int i = 0; i < args.length; i++) {
